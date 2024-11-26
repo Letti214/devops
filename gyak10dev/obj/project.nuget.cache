@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YtJ2RtTEMQNa4rRAW2sofd1lE30fQ2C+GGIKd7wAOhCb+5sP/ZJbEpLro1PG+h1LVbXp5mRz5TVP95sSGcmAVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ffeumo\\Source\\Repos\\Letti214\\devops\\gyak10dev\\gyak10dev.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ffeumo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
